@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://alfonsodelgaizo.github.io/csb-cj0gs/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://alfonsodelgaizo.github.io/csb-cj0gs/static/js/main.28e52915.chunk.js",
+    "main.js.map": "https://alfonsodelgaizo.github.io/csb-cj0gs/static/js/main.28e52915.chunk.js.map",
+    "runtime-main.js": "https://alfonsodelgaizo.github.io/csb-cj0gs/static/js/runtime-main.48fd71dc.js",
+    "runtime-main.js.map": "https://alfonsodelgaizo.github.io/csb-cj0gs/static/js/runtime-main.48fd71dc.js.map",
+    "static/js/2.afd9b8ba.chunk.js": "https://alfonsodelgaizo.github.io/csb-cj0gs/static/js/2.afd9b8ba.chunk.js",
+    "static/js/2.afd9b8ba.chunk.js.map": "https://alfonsodelgaizo.github.io/csb-cj0gs/static/js/2.afd9b8ba.chunk.js.map",
+    "index.html": "https://alfonsodelgaizo.github.io/csb-cj0gs/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://alfonsodelgaizo.github.io/csb-cj0gs/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.afd9b8ba.chunk.js.LICENSE.txt": "https://alfonsodelgaizo.github.io/csb-cj0gs/static/js/2.afd9b8ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48fd71dc.js",
+    "static/js/2.afd9b8ba.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.28e52915.chunk.js"
+  ]
+}
